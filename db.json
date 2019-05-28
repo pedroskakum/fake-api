@@ -1,0 +1,25 @@
+{
+  "grower": [
+    { "id": 1, "name": "Julio Henry Peixoto", "cpf": "32034485050" },
+    { "id": 2, "name": "Aparecida Sara Jennifer Pires", "cpf": "02162914026" },
+    { "id": 3, "name": "Henrique Benjamin Bento Nascimento", "cpf": "78530550056" },
+    { "id": 4, "name": "Nelson Fernando Nogueira", "cpf": "13430762006" },
+    { "id": 5, "name": "Julia Lorena Luiza Lima", "cpf": "80714138010" }
+  ],
+  "properties": [
+    { "id": 1, "name": "Chácara Pedacinho do Céu", "total_area": 1090, "city": "Araçoiaba da Serra" },
+    { "id": 2, "name": "Fazenda Abrigo", "total_area": 4131, "city": "Arroio dos Ratos" },
+    { "id": 3, "name": "Sítio Mirante da Colina", "total_area": 3515, "city": "Trombudo Central" },
+    { "id": 4, "name": "Rancho da Boa Esperança", "total_area": 870, "city": "Flor do Sertão" },
+    { "id": 5, "name": "Fazenda Tio Bilia", "total_area": 24, "city": "Cidade de Espumoso" },
+    { "id": 6, "name": "Pousada do Arroz", "total_area": 58, "city": "Ampére" },
+    { "id": 7, "name": "Rancho Vila Ribeirão", "total_area": 1348, "city": "Passa Tempo" },
+    { "id": 8, "name": "Oca Dádiva dos Ninjas", "total_area": 348, "city": "Jardim de Piranhas" },
+    { "id": 9, "name": "Barraco da Lourdes", "total_area": 1812, "city": "Solidão" },
+    { "id": 10, "name": "Bunker do Carl J.", "total_area": 2361, "city": "Ponto Chique" },
+    { "id": 11, "name": "Choupana Bento Gonçalves", "total_area": 3521, "city": "Alto Horizonte" },
+    { "id": 12, "name": "Covil dos Loucos", "total_area": 585, "city": "Santo Antônio de Pose" },
+    { "id": 13, "name": "Castelo Ratimbum", "total_area": 235, "city": "Nanuque" },
+    { "id": 14, "name": "Rincão do Matão", "total_area": 67, "city": "Figueirópolis" }
+  ]
+}
